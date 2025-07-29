@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Long
+# 👋 Hi there! I'm Long 
 ***Major**: Aspiring NLP Engineer | **Minor**: Aspiring Project Manager*
 
 ---
