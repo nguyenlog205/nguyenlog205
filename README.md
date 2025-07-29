@@ -8,7 +8,7 @@ I am a second-year student passionate about **Natural Language Processing (NLP)*
 
 My long-term goal is to become a **proficient NLP Engineer** who leverages expertise to automate repetitive manual tasks, enhancing productivity and quality of life in essential areas such as education, personal financial management, and public services. By pursuing and adapting to digital transformation and AI trends in Vietnam and globally, I aim to contribute through both individual skills and teamwork, building more human-centered, useful, and state-of-the-art technologies.
 
----
+
 
 ## 📚 Education
 ### [**University of Information Technology, Vietnam National University - Ho Chi Minh city**](https://www.facebook.com/UIT.Fanpage)  
@@ -17,7 +17,7 @@ My long-term goal is to become a **proficient NLP Engineer** who leverages exper
 - **Related courseworks**: Advanced Statistics and Probability, Database, Data Collecting and Preprocessing, Statistical Machine Learning, Computational Thinking for Data Science
 - **Online courseworks**: [Foundation of Project Management](https://coursera.org/share/e9661f36865dcbd0f7d5192b116e8d65), [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/certificate/UC-78a294d2-6874-4d21-8dbf-abb3e4e62a38/), [Deep Learning Specialization *(in process)*](https://www.coursera.org/programs/career-training-for-nevadans-k7yhc/specializations/deep-learning)
 
----
+
 
 ## 🛠️ Technical Skills
 - **Programming Languages**: Python, LaTeX
@@ -32,7 +32,7 @@ Database Management System: MongoDB, VectorDB
 Deployment: Docker
 --->
 
----
+
 
 ## 🚀 Projects
 
@@ -42,14 +42,14 @@ Deployment: Docker
 - Designed the pipeline for annotation and prompt-based data generation.  
 - Led a team of three members throughout the entire project, managing workflow, ensuring timely delivery, and facilitating effective communication.
 
----
+
 
 ## 🎯 Goals for 2025
 - 🚧 Get ready for a career as an AI Engineer 
 - 🤖 Conduct and publish a personal project related to NLP fields 
 - 🎤 Improve public speaking & English proficiency (Target IELTS 6.5+)
 
----
+
 
 ## 📫 Let's Connect!
 - ✉️ Email: 23520882@gm.uit.edu.vn
