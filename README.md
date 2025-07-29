@@ -47,7 +47,7 @@ Deployment: Docker
 ## 🎯 Goals for 2025
 - 🚧 Get ready for a career as an AI Engineer 
 - 🤖 Conduct and publish a personal project related to NLP fields 
-- 🎤 Improve public speaking & English proficiency (Target IELTS 6.5+)
+- 🎤 Improve public speaking & English proficiency (Target IELTS 7.0), study Chinese as a third-language
 
 
 
