@@ -37,6 +37,7 @@ Database Management System: MongoDB, VectorDB
 ## 🚀 Projects
 ### 📃 [Vietnamese Legal Documentation Retrieval System (in progress)](https://github.com/nguyenlog205/summer2025-VNLegalChatbot)
 > **Role**: Project Manager, System Architect & Designer, AI Engineer
+> **Keywords**: Hierarchical RAG, pgvector, ETL pipeline
 - Architected a microservice-based legal QA chatbot using Hierarchical RAG to handle complex Vietnamese legal document queries with multimodal inputs (text & image).
 - Developed an ETL pipeline to automate legal document ingestion, cleaning, chunking, and embedding updates for database and vector store.
 - Designed a user-friendly, human‑centered interface tailored for Vietnamese users, enabling efficient and explainable legal information retrieval.
