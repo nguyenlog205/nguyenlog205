@@ -40,12 +40,13 @@ Database Management System: MongoDB, VectorDB
 - Architected a microservice-based legal QA chatbot using Hierarchical RAG to handle complex Vietnamese legal document queries with multimodal inputs (text & image).
 - Developed an ETL pipeline to automate legal document ingestion, cleaning, chunking, and embedding updates for database and vector store.
 - Designed a user-friendly, human‑centered interface tailored for Vietnamese users, enabling efficient and explainable legal information retrieval.
+<!--
 ### 🏥 [UIT@PubHealthQA – Vietnamese Dataset for RAG-Based Chatbot for Healthcare Administrative Procedures Q&A](https://github.com/nguyenlog205/uit.PubHealthQA)  
 > **Role**: Project Manager & Lead Annotator  
 - Used `selenium` and `beautiful soup` to crawl question-answer pairs about from [Ministry of Health (SRV)](https://dichvucong.moh.gov.vn/web/guest/hoi-dap?p_p_id=hoidap_WAR_oephoidapportlet&_hoidap_WAR_oephoidapportlet_delta=9999) and [National Database for Legislation - Ministry of Health](https://vbpl.vn/boyte/Pages/Home.aspx) and store as raw datasets.
 - Designed the pipeline for annotation and prompt-based data generation.  
 - Led a team of three members throughout the entire project, managing workflow, ensuring timely delivery, and facilitating effective communication.
-
+-->
 ### ⛏️ [Investment Portfolio Optimization – MMC 2025](https://github.com/nguyenlog205/tmh2025-vong1)
 > **Role**: Project Manager & Model Builder
 - Developed an **investment portfolio optimization model** in a simulated market (MMC 2025) using **Python, ARIMA/GARCH, and Monte Carlo simulation**.  
