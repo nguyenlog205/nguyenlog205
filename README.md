@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Long 
-**University of Information Technology, VNUHCM** \
+**KHDL2023 - University of Information Technology, VNUHCM** \
 ***Major**: Aspiring NLP Engineer | **Minor**: Aspiring Project Manager*
 
 ---
