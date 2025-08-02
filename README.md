@@ -37,7 +37,9 @@ Database Management System: MongoDB, VectorDB
 ## 🚀 Projects
 ### 📃 [Vietnamese Legal Documentation Retrieval System (in progress)](https://github.com/nguyenlog205/summer2025-VNLegalChatbot)
 > **Role**: Project Manager, System Architect & Designer, AI Engineer
-- Designed a RAG-based legal QA chatbot with microservice architecture supporting multimodal (text & image) inputs. 
+- Architected a microservice-based legal QA chatbot using Hierarchical RAG to handle complex Vietnamese legal document queries with multimodal inputs (text & image).
+- Developed an ETL pipeline to automate legal document ingestion, cleaning, chunking, and embedding updates for database and vector store.
+- Designed a user-friendly, human‑centered interface tailored for Vietnamese users, enabling efficient and explainable legal information retrieval.
 ### 🏥 [UIT@PubHealthQA – Vietnamese Dataset for RAG-Based Chatbot for Healthcare Administrative Procedures Q&A](https://github.com/nguyenlog205/uit.PubHealthQA)  
 > **Role**: Project Manager & Lead Annotator  
 - Used `selenium` and `beautiful soup` to crawl question-answer pairs about from [Ministry of Health (SRV)](https://dichvucong.moh.gov.vn/web/guest/hoi-dap?p_p_id=hoidap_WAR_oephoidapportlet&_hoidap_WAR_oephoidapportlet_delta=9999) and [National Database for Legislation - Ministry of Health](https://vbpl.vn/boyte/Pages/Home.aspx) and store as raw datasets.
