@@ -22,12 +22,12 @@ My long-term goal is to become a **proficient NLP Engineer** who leverages exper
 
 ## 🛠️ Technical Skills
 - **Programming Languages**: Python, LaTeX
-- **ML, DL and AI**: PyTorch, Scikit-Learn, Hugging Face (Transformer), NLTK
+- **Machine Learning, Deep Learning and AI frameworks**: PyTorch, Scikit-Learn, Hugging Face (Transformer), NLTK
 - **Tools**: GitHub, Jupyter, Overleaf
 - **MLOps**: FastAPI, Docker, Github Actions (basic), DVC
-- **Database Management System**: SQL Server, PostgreSQL
 - **Others**: Fluent English (IELTS 6.0), Agile project management, Technical Writing & Documentation
 <!---
+- **Database Management System**: SQL Server, PostgreSQL
 Others: Google Cloud Platform (Vertex AI, Compute Engine, Cloud Storage) for training and deploying ML models, Prompt engineering, 
 Database Management System: MongoDB, VectorDB
 --->
