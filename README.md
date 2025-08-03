@@ -2,6 +2,10 @@
 **KHDL2023 - University of Information Technology, VNUHCM** \
 ***Major**: Aspiring NLP Engineer | **Minor**: Aspiring Project Manager*
 
+I am a third-year student passionate about **Natural Language Processing (NLP)** and **AI Agent Systems**, with hands-on experience in AI Engineering and NLP pipeline. I am actively building strong foundations in technical skills such as Python, AI frameworks, NLP pipelines, basic understanding in MLOps, alongside with effective cooperation withg Agile practices.
+
+My long-term goal is to become a **proficient NLP Engineer** who leverages expertise to automate repetitive manual tasks, enhancing productivity and quality of life in essential areas such as education, personal financial management, and public services. By pursuing and adapting to digital transformation and AI trends in Vietnam and globally, I aim to contribute through both individual skills and teamwork, building more human-centered, useful, and state-of-the-art technologies.
+
 ---
 
 ## 📚 Education
@@ -10,13 +14,6 @@
 - **CGPA**: 8.14/10.0
 - **Related courseworks**: Advanced Statistics and Probability, Database, Data Collecting and Preprocessing, Statistical Machine Learning, Computational Thinking for Data Science
 - **Online courseworks**: [Foundation of Project Management](https://coursera.org/share/e9661f36865dcbd0f7d5192b116e8d65), [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/certificate/UC-78a294d2-6874-4d21-8dbf-abb3e4e62a38/), [Deep Learning Specialization *(in process)*](https://www.coursera.org/programs/career-training-for-nevadans-k7yhc/specializations/deep-learning)
-
-<div align="center"> </div>
-
-## 🧠 Objectives and Vision
-I am a second-year student passionate about **Natural Language Processing (NLP)** and AI Agent Systems, with hands-on experience in data annotation, information extraction, and automation. I am actively building strong foundations in technical skills such as Python, SQL/NoSQL, and NLP pipelines, alongside teamwork and Agile practices.
-
-My long-term goal is to become a **proficient NLP Engineer** who leverages expertise to automate repetitive manual tasks, enhancing productivity and quality of life in essential areas such as education, personal financial management, and public services. By pursuing and adapting to digital transformation and AI trends in Vietnam and globally, I aim to contribute through both individual skills and teamwork, building more human-centered, useful, and state-of-the-art technologies.
 
 <div align="center"> </div>
 
