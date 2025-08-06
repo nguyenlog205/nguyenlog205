@@ -37,11 +37,16 @@ Database Management System: MongoDB, VectorDB
 <div align="center"> </div>
 
 ## 🚀 Projects
-### 📃 [TalkMedia - Multimodal Retrieval System for Vietnamese Knowledge](https://github.com/nguyenlog205/multimodal-retriever-system)
-> **Role**: Project Manager, System Architect & Designer, AI Engineer \
-> **Keywords**: Datalake, ETL pipeline, Apache Spark, Multimodal Embedding, Vector Database
-- Designed and implemented a **multimodal retrieval system** handling **unstructured and large-scale Vietnamese data**.
-- Optimized **ETL pipelines, metadata structuring, and vector indexing** for **high-performance multimedia retrieval**.
+### 📃🎥🎶 [TalkMedia – Multimodal Retrieval System for Vietnamese Knowledge](https://github.com/nguyenlog205/multimodal-retriever-system)
+> **Role**: Project Manager / System Architect / AI Engineer  \
+> **Keywords**: Data Lake, ETL Pipeline, Apache Spark, Multimodal Embedding, Vector Database
+
+- Designed and implemented a **scalable multimodal retrieval system** for unstructured Vietnamese data, 
+  leveraging **big-data ETL pipelines, Apache Spark**, and **vector-based semantic search**.
+- Supported **cross-modal retrieval** (text ↔ image/video/audio) with **similarity scoring and faceted search** 
+  for efficient top-K retrieval.
+- Optimized **metadata structuring, indexing, and hybrid search** for **large-scale multimedia data**.
+
 
 ### 📃 [Vietnamese Legal Documentation Retrieval System (in progress)](https://github.com/nguyenlog205/summer2025-VNLegalChatbot)
 > **Role**: Project Manager, System Architect & Designer, AI Engineer \
