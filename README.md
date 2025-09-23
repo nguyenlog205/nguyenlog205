@@ -10,8 +10,7 @@
 > *B.Sc. in Data Science (Expected: June 2027)*
 - **CGPA**: 8.14/10.0
 - **Related courseworks**: Advanced Statistics and Probability, Database, Data Collecting and Preprocessing, Statistical Machine Learning, Computational Thinking for Data Science
-- **Online courseworks**: [Foundation of Project Management](https://coursera.org/share/e9661f36865dcbd0f7d5192b116e8d65), [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/certificate/UC-78a294d2-6874-4d21-8dbf-abb3e4e62a38/), [Deep Learning Specialization *(in process)*](https://www.coursera.org/programs/career-training-for-nevadans-k7yhc/specializations/deep-learning)
-
+- **Online courseworks**: [Deep Learning Specialization](coursera.org/share/005b83cd73bb6c3f03dc1235cf698afa), [Google Project Management *(in progress)*](https://coursera.org/share/e9661f36865dcbd0f7d5192b116e8d65)
 <div align="center"> </div>
 
 ## 🧠 Objective and Vision
