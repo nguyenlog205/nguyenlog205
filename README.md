@@ -10,7 +10,7 @@
 > *B.Sc. in Data Science (Expected: June 2027)*
 - **CGPA**: 8.14/10.0
 - **Related courseworks**: Advanced Statistics and Probability, Database, Data Collecting and Preprocessing, Statistical Machine Learning, Computational Thinking for Data Science
-- **Online courseworks**: [Deep Learning Specialization](https://coursera.org/share/005b83cd73bb6c3f03dc1235cf698afa), [Google Project Management *(in progress)*](https://coursera.org/share/e9661f36865dcbd0f7d5192b116e8d65)
+- **Online courseworks**: [Deep Learning Specialization](https://coursera.org/share/005b83cd73bb6c3f03dc1235cf698afa), [MLOps | Machine Learning Operations Specialization *(in progress)](https://www.coursera.org/programs/career-training-for-nevadans-k7yhc/specializations/mlops-machine-learning-duke), [Google Project Management *(in progress)*](https://coursera.org/share/e9661f36865dcbd0f7d5192b116e8d65)
 <div align="center"> </div>
 
 ## 🧠 Objective and Vision
@@ -25,7 +25,7 @@ My long-term goal is to become a **proficient NLP Engineer** who leverages exper
 - **Programming Languages**: Python, LaTeX
 - **Machine Learning, Deep Learning and AI frameworks**: PyTorch, Scikit-Learn, Hugging Face (Transformer), NLTK
 - **Tools**: GitHub, Jupyter, Overleaf
-- **MLOps**: FastAPI, Docker, Github Actions (basic), DVC
+- **MLOps**: FastAPI, Docker, Github Actions (basic), DVC, MLFlow
 - **Others**: Fluent English (IELTS 6.0), Agile project management, Technical Writing & Documentation
 <!---
 - **Database Management System**: SQL Server, PostgreSQL
@@ -36,21 +36,19 @@ Database Management System: MongoDB, VectorDB
 <div align="center"> </div>
 
 ## 🚀 Projects
-### 📃🎥🎶 [TalkMedia – Multimodal Retrieval System for Vietnamese Knowledge](https://github.com/nguyenlog205/multimodal-retriever-system)
-> **Role**: Project Manager / System Architect / AI Engineer  \
-> **Keywords**: Data Lake, ETL Pipeline, Apache Spark, Multimodal Embedding, Vector Database, Hybrid Search
+### 📃🎥🎶 [Vietnamese Law Retrieval System](https://github.com/nguyenlog205/uit-cs221-legalRetrieval)
+> **Role**: System Architect, Project Manager, NLP Engineer, Domain Researcher \
+> **Keywords**:  RAG, ETL Pipeline, Vector Database, FastAPI, Docker
 
-- **Architected and implemented** a **scalable multimodal retrieval system** for unstructured Vietnamese data, using **Apache Spark ETL pipelines** and **vector-based semantic search**.  
-- **Enabled cross-modal retrieval** (text ↔ image/video/audio) with **similarity scoring and faceted search** for accurate and efficient top‑K results.  
-- **Optimized metadata structuring, indexing, and hybrid search**, ensuring **scalable and production‑ready performance** for large multimedia datasets.  
+- Architected an end-to-end Graph RAG system for navigating Vietnam’s legal framework in public procedure and legal in public health, involving designing a full ETL pipeline (crawling, preprocessing, chunking and embedding) to process raw documents and integrating Qwen3-4b-instruct model, eliminating model hallucination.
+- Implemented the model into real-world application using FastAPI to build scalable REST APIs and Docker for containerization, ensuring a modular architecture.
 
-
-### 📃 [Vietnamese Legal Documentation Retrieval System (in progress)](https://github.com/nguyenlog205/summer2025-VNLegalChatbot)
-> **Role**: Project Manager, System Architect & Designer, AI Engineer \
-> **Keywords**: Hierarchical RAG, pgvector, ETL pipeline
-- Architected a microservice-based legal QA chatbot using Hierarchical RAG to handle complex Vietnamese legal document queries with multimodal inputs (text & image).
-- Developed an ETL pipeline to automate legal document ingestion, cleaning, chunking, and embedding updates for database and vector store.
-- Designed a user-friendly, human‑centered interface tailored for Vietnamese users, enabling efficient and explainable legal information retrieval.
+### 📃 [Analysis of Feature Extraction for Word-Level VSL Recognition (in progress)](https://github.com/nguyenlog205/uit-ds201-hand-sign-recognition)
+> **Role**: AI Engineer, Domain Researcher, Project Manager \
+> **Keywords**: Computer Vision, Hugging Face, Inception Network, Skeleton-based Data
+- Conducting a comparative analysis of feature extraction techniques, evaluating the performance of skeleton-based models against traditional RGB frame-based approaches for Vietnamese Sign Language (VSL).
+- Developing a data processing pipeline with MediaPipe to generate and normalize skeleton keypoints, ensuring a consistent dataset for an unbiased comparison between models.
+- Systematically evaluating each methodology on key performance metrics (accuracy, precision, computational cost) to provide data-driven conclusions on the optimal strategy for VSL recognition tasks.
 <!--
 ### 🏥 [UIT@PubHealthQA – Vietnamese Dataset for RAG-Based Chatbot for Healthcare Administrative Procedures Q&A](https://github.com/nguyenlog205/uit.PubHealthQA)  
 > **Role**: Project Manager & Lead Annotator  
@@ -58,12 +56,19 @@ Database Management System: MongoDB, VectorDB
 - Designed the pipeline for annotation and prompt-based data generation.  
 - Led a team of three members throughout the entire project, managing workflow, ensuring timely delivery, and facilitating effective communication.
 -->
+### 🖊️ [Digit Classifier API Service](https://github.com/nguyenlog205/digit-classifier-app)
+> **Solo Project**: Solo project \
+> **Keywords**: Convolutional Neural Network, FastAPI, Docker, PyTorch
+- Developed a full-stack digit recognition application using a Convolutional Neural Network (CNN) in PyTorch, achieving over 99% validation accuracy on the MNIST dataset.
+- Architected a production-ready system by containerizing the application with Docker and exposing the model via a FastAPI to ensure a modular, scalable, and API-first deployment.
+
+
 ### ⛏️ [Investment Portfolio Optimization – MMC 2025](https://github.com/nguyenlog205/tmh2025-vong1)
-> **Role**: Project Manager & Model Builder
+> **Role**: Project Manager & Model Builder \
+> **Keywords**: Monte Carlo, Mathematical Modeling
 - Developed an **investment portfolio optimization model** in a simulated market (MMC 2025) using **Python, ARIMA/GARCH, and Monte Carlo simulation**.  
 - Optimized allocation of **100,000 TMH** across savings, cryptocurrency, Lam Tinh metal, and local stocks to **maximize returns under risk constraints**.  
 - Validated **robustness under multiple market scenarios**, outperforming the traditional **buy-and-hold strategy**.
-
 
 
 
