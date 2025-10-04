@@ -36,7 +36,7 @@ Database Management System: MongoDB, VectorDB
 <div align="center"> </div>
 
 ## 🚀 Projects
-### 📃🎥🎶 [Vietnamese Law Retrieval System](https://github.com/nguyenlog205/uit-cs221-legalRetrieval)
+### 📃🎥🎶 [Vietnamese Law Retrieval Application](https://github.com/nguyenlog205/uit-cs221-legalRetrieval)
 > **Role**: System Architect, Project Manager, NLP Engineer, Domain Researcher \
 > **Keywords**:  RAG, ETL Pipeline, Vector Database, FastAPI, Docker
 
