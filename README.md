@@ -22,10 +22,10 @@ My long-term goal is to become a proficient **ML/AI Engineer** specializing in M
 <div align="center"> </div>
 
 ## 🛠️ Technical Skills
-- **Programming Languages**: Python, LaTeX
-- **Machine Learning, Deep Learning and AI frameworks**: PyTorch, Scikit-Learn, Hugging Face (Transformer), NLTK
+- **Programming Languages**: Python
+- **Machine Learning, Deep Learning and AI frameworks**: PyTorch, Scikit-Learn, Hugging Face (Transformer), LangChain
 - **Tools**: GitHub, Jupyter, Overleaf
-- **MLOps**: FastAPI, Docker, Github Actions (basic), DVC, MLFlow
+- **MLOps**: FastAPI, Docker, Github Actions (basic), MLFlow, Linux
 - **Others**: Fluent English (IELTS 6.0), Agile project management, Technical Writing & Documentation
 <!---
 - **Database Management System**: SQL Server, PostgreSQL
