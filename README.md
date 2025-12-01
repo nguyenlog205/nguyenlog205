@@ -15,9 +15,9 @@
 
 ## 🧠 Objective and Vision
 
-I am a third-year student passionate about **Natural Language Processing (NLP)** and **AI Agent Systems**, with hands-on experience in AI Engineering and NLP pipeline. I am actively building strong foundations in technical skills such as Python, AI frameworks, NLP pipelines, basic understanding in MLOps, alongside with effective cooperation withg Agile practices.
+Passionate third-year student focused on **Machine Learning** and **AI Agent Systems**. Possessing a basic technical foundation in Python, ML/AI frameworks, and basic MLOps, I have hands-on experience building production-ready AI projects, applied effectively through Agile methodologies (Scrum).
 
-My long-term goal is to become a **proficient NLP Engineer** who leverages expertise to automate repetitive manual tasks, enhancing productivity and quality of life in essential areas such as educationand public services, contributing and adapting to digital transformation and AI trends in Vietnam and globally.
+My long-term goal is to become a proficient **ML/AI Engineer** specializing in MLOps, focused on operating and optimizing the full lifecycle of AI systems.
 
 <div align="center"> </div>
 
