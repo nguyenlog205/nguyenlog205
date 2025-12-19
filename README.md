@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Nguyễn Hoàng Long  
-**KHDL2023 - University of Information Technology, VNUHCM** \
-***Major**: AI/ML Engineer
+> **KHDL2023 - University of Information Technology, VNUHCM** \
+> **Major**: AI/ML Engineer
 
 
 ---
