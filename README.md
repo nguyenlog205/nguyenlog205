@@ -1,6 +1,6 @@
-# 👋 Hi there! I'm Long 
+# 👋 Hi there! I'm Nguyễn Hoàng Long  
 **KHDL2023 - University of Information Technology, VNUHCM** \
-***Major**: Aspiring NLP Engineer | **Minor**: Aspiring Project Manager*
+***Major**: AI/ML Engineer
 
 
 ---
@@ -9,24 +9,27 @@
 ### [**University of Information Technology, Vietnam National University - Ho Chi Minh city**](https://www.facebook.com/UIT.Fanpage)  
 > *B.Sc. in Data Science (Expected: June 2027)*
 - **CGPA**: 8.14/10.0
-- **Related courseworks**: Advanced Statistics and Probability, Database, Data Collecting and Preprocessing, Statistical Machine Learning, Computational Thinking for Data Science
-- **Online courseworks**: [Deep Learning Specialization](https://coursera.org/share/005b83cd73bb6c3f03dc1235cf698afa), [MLOps | Machine Learning Operations Specialization *(in progress)](https://www.coursera.org/programs/career-training-for-nevadans-k7yhc/specializations/mlops-machine-learning-duke), [Google Project Management *(in progress)*](https://coursera.org/share/e9661f36865dcbd0f7d5192b116e8d65)
-<div align="center"> </div>
+- **Related courseworks**: Advanced Statistics and Probability, Database, Data Collecting and Preprocessing, Statistical Machine Learning, Deep Learning for Data Science, Natural Language Processing for Data Science
+- **Online courseworks**:
+    - [**Deep Learning Specialization**](https://coursera.org/share/005b83cd73bb6c3f03dc1235cf698afa)
+    - [**IBM AI Engineering** *(in progress)*](https://www.coursera.org/programs/career-training-for-nevadans-k7yhc/professional-certificates/ai-engineer)
+    - [**Google Project Management Professional Certificate**](https://www.coursera.org/account/accomplishments/specialization/FUQHHABPL5QZ)
+
 
 ## 🧠 Objective and Vision
 
-Passionate third-year student focused on **Machine Learning** and **AI Agent Systems**. Possessing a basic technical foundation in Python, ML/AI frameworks, and basic MLOps, I have hands-on experience building production-ready AI projects, applied effectively through Agile methodologies (Scrum).
+Passionate third-year student focused on **Machine Learning and AI Agent Systems**. Possessing a basic technical foundation in Python, ML/AI frameworks, and basic MLOps, I have hands-on experience **building production-ready AI projects**, applied effectively through Agile methodologies (Scrum).
 
-My long-term goal is to become a proficient **ML/AI Engineer** specializing in MLOps, focused on operating and optimizing the full lifecycle of AI systems.
+My long-term goal is to become a **proficient ML/AI Engineer** specializing in MLOps, focused on operating and optimizing the full lifecycle of AI systems.
+
 
 <div align="center"> </div>
 
 ## 🛠️ Technical Skills
 - **Programming Languages**: Python
-- **Machine Learning, Deep Learning and AI frameworks**: PyTorch, Scikit-Learn, Hugging Face (Transformer), LangChain
-- **Tools**: GitHub, Jupyter, Overleaf
-- **MLOps**: FastAPI, Docker, Github Actions (basic), MLFlow, Linux
-- **Others**: Fluent English (IELTS 6.0), Agile project management, Technical Writing & Documentation
+- **Machine Learning, Deep Learning and AI frameworks**: PyTorch, Hugging Face, Transformers, LangChain, Scikit-Learn
+- **MLOps**: MLFlow, FastAPI, Docker, Linux, Cloud Computing (learning)
+- **Others**: Fluent English (IELTS 6.0), English (6.0 IELTS), Project Management & Teamwork, Communication, Critical Thinking, Document Writing
 <!---
 - **Database Management System**: SQL Server, PostgreSQL
 Others: Google Cloud Platform (Vertex AI, Compute Engine, Cloud Storage) for training and deploying ML models, Prompt engineering, 
@@ -36,34 +39,28 @@ Database Management System: MongoDB, VectorDB
 <div align="center"> </div>
 
 ## 🚀 Projects
-### 📃🎥🎶 [Vietnamese Law Retrieval Application](https://github.com/nguyenlog205/uit-cs221-legalRetrieval)
-> **Role**: System Architect, Project Manager, NLP Engineer, Domain Researcher \
-> **Keywords**:  RAG, ETL Pipeline, Vector Database, FastAPI, Docker
+### [End-to-end Vietnamese Law Retrieval Application](https://github.com/nguyenlog205/uit-cs221-legalRetrieval)
+> **Role**: NLP Engineer, Project Manager \
+> **Keywords**: ETL Pipeline, Vector Database, RAG, LLM finetuning, FastAPI, Docker
 
-- Architected an end-to-end Graph RAG system for navigating Vietnam’s legal framework in public procedure and legal in public health, involving designing a full ETL pipeline (crawling, preprocessing, chunking and embedding) to process raw documents and integrating Qwen3-4b-instruct model, eliminating model hallucination.
-- Implemented the model into real-world application using FastAPI to build scalable REST APIs and Docker for containerization, ensuring a modular architecture.
-
-### 📃 [Analysis of Feature Extraction for Word-Level VSL Recognition (in progress)](https://github.com/nguyenlog205/uit-ds201-hand-sign-recognition)
-> **Role**: AI Engineer, Domain Researcher, Project Manager \
-> **Keywords**: Computer Vision, Hugging Face, Inception Network, Skeleton-based Data
-- Conducting a comparative analysis of feature extraction techniques, evaluating the performance of skeleton-based models against traditional RGB frame-based approaches for Vietnamese Sign Language (VSL).
-- Developing a data processing pipeline with MediaPipe to generate and normalize skeleton keypoints, ensuring a consistent dataset for an unbiased comparison between models.
-- Systematically evaluating each methodology on key performance metrics (accuracy, precision, computational cost) to provide data-driven conclusions on the optimal strategy for VSL recognition tasks.
-<!--
-### 🏥 [UIT@PubHealthQA – Vietnamese Dataset for RAG-Based Chatbot for Healthcare Administrative Procedures Q&A](https://github.com/nguyenlog205/uit.PubHealthQA)  
-> **Role**: Project Manager & Lead Annotator  
-- Used `selenium` and `beautiful soup` to crawl question-answer pairs about from [Ministry of Health (SRV)](https://dichvucong.moh.gov.vn/web/guest/hoi-dap?p_p_id=hoidap_WAR_oephoidapportlet&_hoidap_WAR_oephoidapportlet_delta=9999) and [National Database for Legislation - Ministry of Health](https://vbpl.vn/boyte/Pages/Home.aspx) and store as raw datasets.
-- Designed the pipeline for annotation and prompt-based data generation.  
-- Led a team of three members throughout the entire project, managing workflow, ensuring timely delivery, and facilitating effective communication.
--->
-### 🖊️ [Digit Classifier API Service](https://github.com/nguyenlog205/digit-classifier-app)
-> **Solo Project**: Solo project \
-> **Keywords**: Convolutional Neural Network, FastAPI, Docker, PyTorch
-- Developed a full-stack digit recognition application using a Convolutional Neural Network (CNN) in PyTorch, achieving over 99% validation accuracy on the MNIST dataset.
-- Architected a production-ready system by containerizing the application with Docker and exposing the model via a FastAPI to ensure a modular, scalable, and API-first deployment.
+-	Architected and implemented an end-to-end RAG application, requiring the design of a full pipeline for raw document crawling, RAG indexing and RAG retrieval, integrated and fine-tuned multiple models (with custom datasets) to conduct comparative performance analysis across different architectures.
+-	Evaluated the system via BERT score and RAGASS approaches.
+-	Applied FastAPI for REST API development and Docker for containerization, integrating into simple web UI.
 
 
-### ⛏️ [Investment Portfolio Optimization – MMC 2025](https://github.com/nguyenlog205/tmh2025-vong1)
+### [Vietnamese Word-level Sign Language Recognition Model Development ](https://github.com/nguyenlog205/uit-ds201-hand-sign-recognition)
+> **Role**: Data Annotator, AI/ML Engineer \
+> **Keywords**: Computer Vision, PyTorch, CNN, Transfer Learning
+- Engineered and trained ResNet-50 + LSTM (RGB) and Bi-LSTM (skeleton) models for temporal gesture recognition, including dataset preparation, ETL pipeline implementation, and end-to-end model training.
+- Performed competitive evaluation across approaches, with ResNet-50 + LSTM achieving the highest F1-Score (0.7601).
+
+### [Statistical Analysis and Predictive Modeling of FPT Stock Price (2020–2025)](https://github.com/nguyenlog205/digit-classifier-app)
+> **Solo Project**: Data Analyst \
+> **Keywords**: Preprocessing, Analysis, Modeling
+-	Collected and synthesized data from macroeconomic, industry, and FPT financial reports into a single dataset using pandas.
+-	Engineered time-series features and performed correlation analysis; applied XGBoost, ANN, ARIMA, and GARCH for predictive modeling.
+
+### [Investment Portfolio Optimization – Mathematical Modeling Competition 2025](https://github.com/nguyenlog205/tmh2025-vong1)
 > **Role**: Project Manager & Model Builder \
 > **Keywords**: Monte Carlo, Mathematical Modeling
 - Developed an **investment portfolio optimization model** in a simulated market (MMC 2025) using **Python, ARIMA/GARCH, and Monte Carlo simulation**.  
@@ -72,12 +69,10 @@ Database Management System: MongoDB, VectorDB
 
 
 
-<div align="center"> </div>
-
 ## 🎯 Goals for 2025
 - 🚧 Get ready for a career as an AI Engineer 
 - 🤖 Conduct and publish a personal project related to NLP fields 
-- 🎤 Improve public speaking & English proficiency (Target IELTS 7.0), study Chinese as a third-language
+- 🎤 Improve public speaking & English proficiency (Target IELTS 7.0)
 
 
 
