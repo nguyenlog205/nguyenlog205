@@ -62,12 +62,6 @@ interactive web interface.
     * Engineered a resource-efficient video classification system capable of recognizing 10 human activities. Solved the challenge of background noise and limited data by implementing an actor-centric preprocessing pipeline (YOLOv8) and a Hybrid EfficientNet-Transformer architecture, optimizing performance for low-resource environments.
     * Developed a hybrid architecture integrating **EfficientNet-B0** (for spatial feature extraction) and **Transformers** (for temporal modeling), optimizing input processing (224x224, 30fps) to achieve a precision of **~0.60** under constrained compute resources.
 
-### [Investment Portfolio Optimization – Mathematical Modeling Competition 2025](https://github.com/nguyenlog205/tmh2025-vong1)
-> **Role**: Project Manager & Model Builder \
-> **Keywords**: Monte Carlo, Mathematical Modeling
-- Developed an **investment portfolio optimization model** in a simulated market (MMC 2025) using **Python, ARIMA/GARCH, and Monte Carlo simulation**.  
-- Optimized allocation of **100,000 TMH** across savings, cryptocurrency, Lam Tinh metal, and local stocks to **maximize returns under risk constraints**.  
-- Validated **robustness under multiple market scenarios**, outperforming the traditional **buy-and-hold strategy**.
 
 
 
