@@ -33,7 +33,7 @@ Database Management System: MongoDB, VectorDB
 --->
 
 
-## 🚀 Projects
+## 🚀 Portfolio
 
 ### [End-to-end Vietnamese Law Retrieval Application](https://github.com/nguyenlog205/uit-cs221-legalRetrieval)
 > **Role**: NLP Engineer \
@@ -59,8 +59,8 @@ interactive web interface.
 > **Role:** ML Engineer (Solo Project) \
 > **Keywords:** Python, PyTorch, YOLOv8, EfficientNet, Transformer
 * **Description:**
-    * Engineered a resource-efficient video classification system capable of recognizing 10 human activities. Solved the challenge of background noise and limited data by implementing an actor-centric preprocessing pipeline (YOLOv8) and a Hybrid EfficientNet-Transformer architecture, optimizing performance for low-resource environments.
-    * Developed a hybrid architecture integrating **EfficientNet-B0** (for spatial feature extraction) and **Transformers** (for temporal modeling), optimizing input processing (224x224, 30fps) to achieve a precision of **~0.60** under constrained compute resources.
+    * Engineered a resource-efficient video classification system capable of recognizing 6 human activities. Solved the challenge of background noise and limited data by implementing an actor-centric preprocessing pipeline (YOLOv8) and a Hybrid EfficientNet-Transformer architecture, optimizing performance for low-resource environments.
+    * Developed a hybrid architecture integrating **EfficientNet-B0** (for spatial feature extraction) and **Transformers** (for temporal modeling), optimizing input processing (224x224, 30fps) to achieve `a precision of **~0.79**` and `a F1-macro of **~0.79**`  under constrained compute resources.
 
 
 
