@@ -220,13 +220,6 @@ interactive web interface.
 * Deepen expertise in **MLOps & Infrastructure** (AWS/GCP, Kubernetes) to architect scalable, fault-tolerant AI systems.
 * Improve public speaking & English proficiency (**target: IELTS 6.5**) to effectively articulate technical solutions.
 
-
-
-## 📫 Let's Connect!
-- ✉️ Email: 23520882@gm.uit.edu.vn
-- ✉️ Personal: longnguyenhoang.personal@gmail.com
-- 🌐 LinkedIn: https://www.linkedin.com/in/nguyenlog205/ 
-
 ---
 
 > “Language is the most powerful instrument we have. I’m here to make it work smarter.”
