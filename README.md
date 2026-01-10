@@ -1,12 +1,77 @@
-# 👋 Hi there! I'm Nguyễn Hoàng Long  
-> **KHDL2023 - University of Information Technology, VNUHCM** \
-> **Major**: AI/ML Engineer
+# Hi there, I'm Nguyễn Hoàng Long
+> **Data Science Student (KHDL2023)** - **University of Information Technology - VNUHCM** \
+> **Focus:** AI/ML Engineering & MLOps
+
+<p align="left">
+  <a href="mailto:longnguyenhoang.personal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-longnguyenhoang.personal%40gmail.com-red?style=flat-square&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/nguyenlog205/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
+  </a>
+</p>
 
 Passionate third-year student focused on **Machine Learning and AI Agent Systems**. Possessing a basic technical foundation in Python, ML/AI frameworks, and basic MLOps, I have hands-on experience **building production-ready AI projects**, applied effectively through Agile methodologies (Scrum).
 
 My long-term goal is to become a **proficient ML/AI Engineer** specializing in MLOps, focused on operating and optimizing the full lifecycle of AI systems.
 
----
+
+## 📚 Education & Certifications
+<div align="center">
+  <table border="0">
+    <thead>
+      <tr>
+        <th width="55%" align="left">🎓 Education</th>
+        <th width="45%" align="left">📜 Certificates</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td valign="top">
+          <h3>University of Information Technology - VNUHCM</h3>
+          <p><i>B.Sc. in Data Science (2023 - 2027)</i></p>
+          <p>
+            <img src="https://img.shields.io/badge/CGPA-8.14%2F10.0-success?style=flat-square&logo=github" />
+            <img src="https://img.shields.io/badge/Status-Junior_(Year_3)-blue?style=flat-square" />
+          </p>
+          <details>
+            <summary><b>📚 Related Courseworks (Click to expand)</b></summary>
+            <br>
+            <ul>
+              <li>Calculus, Linear Algebra, Probability & Statistics</li>
+              <li>Discrete Mathematics, Database Systems</li>
+              <li>Computational Thinking for Data Science</li>
+              <li><b>Statistical Machine Learning</b></li>
+              <li><b>Deep Learning for Data Science</b></li>
+              <li><b>Natural Language Processing (NLP)</b></li>
+            </ul>
+          </details>
+        </td>
+        <td valign="top">
+          <p>
+            <a href="https://coursera.org/share/005b83cd73bb6c3f03dc1235cf698afa">
+              <img src="https://img.shields.io/badge/DeepLearning.AI-Specialization-F3C758?style=flat-square&logo=coursera&logoColor=black" />
+            </a>
+            <br><i>Completed</i>
+          </p>
+          <p>
+            <a href="https://www.coursera.org/account/accomplishments/specialization/FUQHHABPL5QZ">
+              <img src="https://img.shields.io/badge/Google-Project_Management-4285F4?style=flat-square&logo=google&logoColor=white" />
+            </a>
+            <br><i>Professional Certificate</i>
+          </p>
+          <p>
+            <a href="https://www.coursera.org/programs/career-training-for-nevadans-k7yhc/professional-certificates/ai-engineer">
+              <img src="https://img.shields.io/badge/IBM-AI_Engineering-052FAD?style=flat-square&logo=ibm&logoColor=white" />
+            </a>
+            <br>
+            <img src="https://img.shields.io/badge/Status-In_Progress_⏳-orange?style=flat-square" />
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ## 📚 Education
 ### [**University of Information Technology, Vietnam National University - Ho Chi Minh city**](https://www.facebook.com/UIT.Fanpage)  
