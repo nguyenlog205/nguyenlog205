@@ -22,33 +22,29 @@ My long-term goal is to become a **proficient ML/AI Engineer** specializing in M
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+#### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### 🧠 Machine Learning & AI Frameworks
+#### Machine Learning & AI Frameworks
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-yellow?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-orange?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-black?style=for-the-badge)
 
-### ⚙️ MLOps
+#### MLOps
 ![FastAPI](https://img.shields.io/badge/FastAPI-005850?style=for-the-badge&logo=fastapi&logoColor=46E3C8)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-Learning-lightgrey?style=for-the-badge&logo=icloud)
 
-### 🌟 Others
+#### Others
 ![English](https://img.shields.io/badge/English-IELTS_6.0-blue?style=for-the-badge)
 ![Teamworking](https://img.shields.io/badge/Teamworking-Scrumban-green?style=for-the-badge)
 ![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-brightgreen?style=for-the-badge)
 
-* **Programming Languages:** Python
-* **Machine Learning & AI Frameworks:** Scikit-learn, PyTorch, Transformers, Hugging Face, LangChain
-* **MLOps:** FastAPI, Docker, Linux, MLflow, Cloud Computing (learning)
-* **Others:** English (IELTS 6.0), Teamworking (Scrumban), Critical Thinking
 <!---
 - **Database Management System**: SQL Server, PostgreSQL
 Others: Google Cloud Platform (Vertex AI, Compute Engine, Cloud Storage) for training and deploying ML models, Prompt engineering, 
@@ -56,7 +52,7 @@ Database Management System: MongoDB, VectorDB
 --->
 
 
-## 🚀 Portfolio
+## 🚀 Projects
 
 ### [End-to-end Vietnamese Law Retrieval Application](https://github.com/nguyenlog205/uit-cs221-legalRetrieval)
 > **Role**: NLP Engineer \
