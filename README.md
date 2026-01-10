@@ -15,6 +15,49 @@ Passionate third-year student focused on **Machine Learning and AI Agent Systems
 
 My long-term goal is to become a **proficient ML/AI Engineer** specializing in MLOps, focused on operating and optimizing the full lifecycle of AI systems.
 
+## 🛠️ Technical Skills
+
+<table border="0" width="100%">
+  <tr>
+    <td width="20%"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%"><b>AI & ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Transformers-yellow?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-orange?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/🦜_LangChain-black?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%"><b>MLOps & Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-005850?style=for-the-badge&logo=fastapi&logoColor=46E3C8" />
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/FAISS-00A29A?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%"><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+      <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 
 ## 📚 Education & Certifications
 <div align="center">
@@ -73,42 +116,6 @@ My long-term goal is to become a **proficient ML/AI Engineer** specializing in M
   </table>
 </div>
 
-## 📚 Education
-### [**University of Information Technology, Vietnam National University - Ho Chi Minh city**](https://www.facebook.com/UIT.Fanpage)  
-> *B.Sc. in Data Science (Expected: June 2027)*
-- **CGPA**: 8.14/10.0
-- **Related courseworks**: Calculus, Probability and Statistics, Discrete Mathematics, Database, Computational Thinking for Data Science, Statistical Machine Learning, Deep Learning for Data Science, Natural Language Processing
-- **Online courseworks**:
-    - [**Deep Learning Specialization**](https://coursera.org/share/005b83cd73bb6c3f03dc1235cf698afa)
-    - [**IBM AI Engineering** *(in progress)*](https://www.coursera.org/programs/career-training-for-nevadans-k7yhc/professional-certificates/ai-engineer)
-    - [**Google Project Management Professional Certificate**](https://www.coursera.org/account/accomplishments/specialization/FUQHHABPL5QZ)
-
-
-
-## 🛠️ Technical Skills
-
-#### Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-#### Machine Learning & AI Frameworks
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-yellow?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-orange?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-black?style=for-the-badge)
-
-#### MLOps
-![FastAPI](https://img.shields.io/badge/FastAPI-005850?style=for-the-badge&logo=fastapi&logoColor=46E3C8)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-Learning-lightgrey?style=for-the-badge&logo=icloud)
-
-#### Others
-![English](https://img.shields.io/badge/English-IELTS_6.0-blue?style=for-the-badge)
-![Teamworking](https://img.shields.io/badge/Teamworking-Scrumban-green?style=for-the-badge)
-![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-brightgreen?style=for-the-badge)
 
 <!---
 - **Database Management System**: SQL Server, PostgreSQL
