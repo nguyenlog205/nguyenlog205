@@ -216,8 +216,9 @@ interactive web interface.
 
 
 ## 🎯 Goals for 2026
--  Continue enhancing AI/ML knowledge and learning more about Software Engineering
-- Improve public speaking & English proficiency (Target IELTS 6.5)
+* Continue enhancing AI/ML knowledge, specifically in **advanced architectures, model optimization, and training strategies**.
+* Deepen expertise in **MLOps & Infrastructure** (AWS/GCP, Kubernetes) to architect scalable, fault-tolerant AI systems.
+* Improve public speaking & English proficiency (**target: IELTS 6.5**) to effectively articulate technical solutions.
 
 
 
