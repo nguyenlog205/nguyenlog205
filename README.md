@@ -13,7 +13,7 @@
     <tr>
       <td>
         "Passionate third-year student focused on <b>Machine Learning and AI Agent Systems</b>. 
-        Possessing a basic technical foundation in Python, ML/AI frameworks, and basic MLOps, I have hands-on experience <b>building production-ready AI projects</b>, applied effectively through Agile methodologies (Scrum).
+        Possessing a solid technical foundation in Python, ML/AI frameworks, and basic MLOps, I have hands-on experience <b>building production-ready AI projects</b>, applied effectively through Agile methodologies (Scrum).
         <br><br>
         My long-term goal is to become a <b>proficient ML/AI Engineer</b> specializing in MLOps, focused on operating and optimizing the full lifecycle of AI systems.
       </td>
