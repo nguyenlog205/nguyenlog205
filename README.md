@@ -215,10 +215,11 @@ interactive web interface.
 
 
 
-## 🎯 Goals for 2026
-* Continue enhancing AI/ML knowledge, specifically in **advanced architectures, model optimization, and training strategies**.
-* Deepen expertise in **MLOps & Infrastructure** (AWS/GCP, Kubernetes) to architect scalable, fault-tolerant AI systems.
-* Improve public speaking & English proficiency (**target: IELTS 6.5**) to effectively articulate technical solutions.
+## Goals for 2026
+* Prioritize mental and physical well-being through a sustainable work-life balance to ensure long-term productivity and creativity.
+* Deepen expertise in advanced architectures (LLMs & Multimodal AI), specializing in model optimization (quantization, distillation) and efficient training strategies (PEFT, alignment).
+* Deepen expertise in **MLOps & Infrastructure** (AWS/GCP, Kubernetes) to architect scalable, fault-tolerant, and cost-effective AI systems.
+* Target IELTS 6.5 and refine public speaking skills to bridge the gap between complex technical solutions and stakeholder requirements.
 
 ---
 
