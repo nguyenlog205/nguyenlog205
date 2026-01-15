@@ -68,7 +68,7 @@
 </table>
 
 
-## 📚 Education & Certifications
+## Education & Certifications
 <div align="center">
   <table border="0" width="100%">
     <tr>
@@ -121,102 +121,87 @@ Database Management System: MongoDB, VectorDB
 
 <table border="0">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/nguyenlog205/uit-cs221-legalRetrieval"> Vietnamese Law Retrieval</a></h3>
+    <td valign="top">
+      <h3 align="center"><a href="https://github.com/nguyenlog205/uit-cs221-legalRetrieval">Vietnamese Law Retrieval (RAG System)</a></h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Role-NLP_Engineer-blue?style=flat-square" />
         <img src="https://img.shields.io/badge/Tech-RAG_|_FastAPI_|_Docker-005850?style=flat-square" />
       </div>
+      <p>
+        <b>Keywords:</b> RAG, Hybrid Search, QLoRA, Transparency API, Parent Indexing.
+      </p>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/nguyenlog205/nguyenlog205/main/img/projects/rag_legal_document/interface.png" width="85%" style="border-radius: 8px; border: 1px solid #ddd;" alt="User Interface">
+      </p>
       <br>
+      <details>
+        <summary>View System Architecture</summary>
         <p align="center">
-          <img src="https://raw.githubusercontent.com/nguyenlog205/nguyenlog205/main/img/projects/rag_legal_document/architecture.png" width="100%" alt="RAG Architecture">
+          <img src="https://raw.githubusercontent.com/nguyenlog205/nguyenlog205/main/img/projects/rag_legal_document/architecture.png" width="90%">
         </p>
-        <p>
-          <b>Keywords:</b> RAG, Vector Database, LoRA, Quantization.
-        </p>
+      </details>
       <ul>
-        <li>Developed a high-performance <b>RAG pipeline</b> leveraging <b>Parent Indexing</b>; <b>Hybrid Search (including Semantic Search (Vector) and Lexical Search (BM25)</b>; resource-efficient fine-tuning (LoRA, quantization).</li>
-        <li>Achieved a peak <b>BERT score of 0.68</b> on custom datasets.</li>
-        <li>Operationalized via <b>FastAPI</b> & <b>Docker</b> for a robust REST API integrated with a web interface.</li>
+        <li>Developed a high-performance <b>RAG pipeline</b> leveraging <b>Parent Indexing</b> & <b>Hybrid Search</b> (Vector + BM25).</li>
+        <li>Achieved a peak <b>BERT score of 0.68</b> on legal datasets.</li>
+        <li><b>Transparent Output:</b> API responses include intent classification, synthesized answers, and verifiable source documents.</li>
       </ul>
+      <br>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/nguyenlog205/uit-ds201-hand-sign-recognition"> Sign Language Recognition</a></h3>
+  </tr>
+
+  <tr>
+    <td valign="top">
+      <h3 align="center"><a href="https://github.com/nguyenlog205/uit-ds201-hand-sign-recognition">Sign Language Recognition</a></h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Role-AI/ML_Engineer-orange?style=flat-square" />
         <img src="https://img.shields.io/badge/Tech-CV_|_HuggingFace_|_Skeleton-F7931E?style=flat-square" />
       </div>
       <br>
-      <p><b>Keywords:</b> Inception Network, Transfer Learning, HA-GCN.</p>
+      <p><b>Keywords:</b> Inception Network, Transfer Learning, HA-GCN, Skeleton-based.</p>
       <ul>
         <li>Engineered an end-to-end pipeline comparing architectures: <b>ResNet-50 + LSTM</b> (RGB) vs <b>HA-GCN</b> (Skeleton).</li>
-        <li>Benchmarked performance, identifying HA-GCN as superior with a peak <b>F1-Score of 0.8519</b>, outperforming RGB baseline.</li>
+        <li>Benchmarked performance, identifying HA-GCN as superior with a peak <b>F1-Score of 0.8519</b>.</li>
         <li>Handled full lifecycle from data annotation to model deployment.</li>
       </ul>
+      <br>
     </td>
   </tr>
+
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/nguyenlog205/digit-classifier-app"> FPT Stock Quantification</a></h3>
+    <td valign="top">
+      <h3 align="center"><a href="https://github.com/nguyenlog205/digit-classifier-app">FPT Stock Quantification</a></h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Role-Data_Analyst-green?style=flat-square" />
         <img src="https://img.shields.io/badge/Tech-XGBoost_|_ARIMA--GARCH-eb8a00?style=flat-square" />
       </div>
       <br>
-      <p><b>Keywords:</b> NLP Pipeline, Monte Carlo, Volatility Analysis.</p>
+      <p><b>Keywords:</b> NLP Pipeline, Monte Carlo, Volatility Analysis, Financial Risk.</p>
       <ul>
         <li>Synthesized financial datasets & built an automated <b>NLP pipeline</b> for market news.</li>
         <li>Engineered <b>XGBoost</b> (log returns, lags) achieving <b>R² ≈ 0.50</b>.</li>
         <li>Quantified risk (90% CI) using hybrid <b>ARIMA-GARCH</b> with <b>3,000 Monte Carlo</b> simulations.</li>
       </ul>
+      <br>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/nguyenlog205/deep-learning-classification">Hybrid Action Recognition</a></h3>
+  </tr>
+
+  <tr>
+    <td valign="top">
+      <h3 align="center"><a href="https://github.com/nguyenlog205/deep-learning-classification">Hybrid Human Action Recognition</a></h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Role-Solo_Project-blueviolet?style=flat-square" />
         <img src="https://img.shields.io/badge/Tech-YOLOv8_|_EfficientNet_|_Transformer-black?style=flat-square" />
       </div>
       <br>
-      <p><b>Keywords:</b> Spatio-Temporal, Actor-centric, PyTorch.</p>
+      <p><b>Keywords:</b> Spatio-Temporal, Actor-centric, PyTorch, Real-time Inference.</p>
       <ul>
-        <li>Engineered a resource-efficient system for 6 human activities using <b>EfficientNet-B0</b> (Spatial) + <b>Transformers</b> (Temporal).</li>
+        <li>Engineered a resource-efficient system for 6 activities using <b>EfficientNet-B0</b> (Spatial) + <b>Transformers</b> (Temporal).</li>
         <li>Implemented actor-centric preprocessing via <b>YOLOv8</b> to handle background noise.</li>
         <li>Optimized for low-resource: <b>Precision ~0.79</b>, <b>F1-macro ~0.79</b> (224x224, 30fps).</li>
       </ul>
     </td>
   </tr>
 </table>
-
-<!---
-## 🚀 Projects
-
-### [End-to-end Vietnamese Law Retrieval Application](https://github.com/nguyenlog205/uit-cs221-legalRetrieval)
-> **Role**: NLP Engineer \
-> **Keywords**: RAG, Vector Database, FastAPI, Docker
-- Developed a high-performance RAG pipeline leveraging parent indexing and resource-efficient fine-tuning (LoRA, quantization), achieving a peak BERT score of 0.68 on custom datasets.
-- Operationalized the model using FastAPI and Docker to build a robust REST API, seamlessly integrating it with an
-interactive web interface.
-
-
-### [Vietnamese Word-level Sign Language Recognition Model Development](https://github.com/nguyenlog205/uit-ds201-hand-sign-recognition)
-> **Role**: Data Annotator, AI/ML Engineer \
-> **Keywords**: Computer Vision, Hugging Face, Inception Network, Skeleton-based Data, Transfer Learning
-- Engineered an end-to-end pipeline from data processing to model deployment, implementing advanced architectures: ResNet-50 + LSTM (RGB) and HA-GCN (skeleton).
-- Benchmarked performance across modalities, identifying HA-GCN as the superior model with a peak F1-Score of 0.8519, outperforming RGB baseline.
-
-### [Statistical Analysis and Predictive Modeling of FPT Stock Price (2020–2025)](https://github.com/nguyenlog205/digit-classifier-app)
-> **Role**: ML Engineer, Data Analyst \
-> **Keywords**: Data Analysis, XGBoost, GARCH-ARIMA, Monte Carlo
--	Synthetized multi-source financial datasets, developed an automated NLP pipeline to download market news.
--	Engineered an XGBoost regressor with advanced feature engineering (log returns, lags) to forecast trends, achieving R2 ≈ 0.50 on test data; Quantified market volatility and risk (90% CI) by implementing a hybrid ARIMA-GARCH model combined with 3,000 Monte Carlo simulations.
-
-### [Hybrid Spatio-Temporal Action Recognition](https://github.com/nguyenlog205/deep-learning-classification)
-> **Role:** ML Engineer (Solo Project) \
-> **Keywords:** Python, PyTorch, YOLOv8, EfficientNet, Transformer
-
-* Engineered a resource-efficient video classification system capable of recognizing 6 human activities. Solved the challenge of background noise and limited data by implementing an actor-centric preprocessing pipeline (YOLOv8) and a Hybrid EfficientNet-Transformer architecture, optimizing performance for low-resource environments.
-* * Developed a hybrid architecture integrating **EfficientNet-B0** (for spatial feature extraction) and **Transformers** (for temporal modeling), optimizing input processing (224x224, 30fps) to achieve `a precision of **~0.79**` and `a F1-macro of **~0.79**`  under constrained compute resources.
---->
 
 
 
