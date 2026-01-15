@@ -96,7 +96,7 @@
     </tr>
     <tr>
       <td valign="top">
-        <h3>📜 Professional Certificates</h3>
+        <h3> Professional Certificates</h3>
         <a href="https://coursera.org/share/005b83cd73bb6c3f03dc1235cf698afa">
           <img src="https://img.shields.io/badge/Deep_Learning_Specialization-F3C758?style=flat-square&logo=coursera&logoColor=black" />
         </a>
@@ -128,7 +128,12 @@ Database Management System: MongoDB, VectorDB
         <img src="https://img.shields.io/badge/Tech-RAG_|_FastAPI_|_Docker-005850?style=flat-square" />
       </div>
       <br>
-      <p><b>Keywords:</b> RAG, Vector Database, LoRA, Quantization.</p>
+        <p align="center">
+          <img src="https://raw.githubusercontent.com/nguyenlog205/nguyenlog205/main/img/projects/rag_legal_document/architecture.png" width="100%" alt="RAG Architecture">
+        </p>
+        <p>
+          <b>Keywords:</b> RAG, Vector Database, LoRA, Quantization.
+        </p>
       <ul>
         <li>Developed a high-performance <b>RAG pipeline</b> leveraging <b>Parent Indexing</b>; <b>Hybrid Search (including Semantic Search (Vector) and Lexical Search (BM25)</b>; resource-efficient fine-tuning (LoRA, quantization).</li>
         <li>Achieved a peak <b>BERT score of 0.68</b> on custom datasets.</li>
