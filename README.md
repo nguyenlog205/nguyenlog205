@@ -117,12 +117,12 @@
 Others: Google Cloud Platform (Vertex AI, Compute Engine, Cloud Storage) for training and deploying ML models, Prompt engineering, 
 Database Management System: MongoDB, VectorDB
 --->
-## 🚀 Featured Projects
+## Featured Projects
 
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/nguyenlog205/uit-cs221-legalRetrieval">⚖️ Vietnamese Law Retrieval</a></h3>
+      <h3 align="center"><a href="https://github.com/nguyenlog205/uit-cs221-legalRetrieval"> Vietnamese Law Retrieval</a></h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Role-NLP_Engineer-blue?style=flat-square" />
         <img src="https://img.shields.io/badge/Tech-RAG_|_FastAPI_|_Docker-005850?style=flat-square" />
@@ -130,13 +130,13 @@ Database Management System: MongoDB, VectorDB
       <br>
       <p><b>Keywords:</b> RAG, Vector Database, LoRA, Quantization.</p>
       <ul>
-        <li>Developed a high-performance <b>RAG pipeline</b> leveraging <b>Parent Indexing</b> and resource-efficient fine-tuning (LoRA, quantization).</li>
+        <li>Developed a high-performance <b>RAG pipeline</b> leveraging <b>Parent Indexing</b>; <b>Hybrid Search (including Semantic Search (Vector) and Lexical Search (BM25)</b>; resource-efficient fine-tuning (LoRA, quantization).</li>
         <li>Achieved a peak <b>BERT score of 0.68</b> on custom datasets.</li>
         <li>Operationalized via <b>FastAPI</b> & <b>Docker</b> for a robust REST API integrated with a web interface.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/nguyenlog205/uit-ds201-hand-sign-recognition">🦻 Sign Language Recognition</a></h3>
+      <h3 align="center"><a href="https://github.com/nguyenlog205/uit-ds201-hand-sign-recognition"> Sign Language Recognition</a></h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Role-AI/ML_Engineer-orange?style=flat-square" />
         <img src="https://img.shields.io/badge/Tech-CV_|_HuggingFace_|_Skeleton-F7931E?style=flat-square" />
@@ -152,7 +152,7 @@ Database Management System: MongoDB, VectorDB
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/nguyenlog205/digit-classifier-app">📈 FPT Stock Quantification</a></h3>
+      <h3 align="center"><a href="https://github.com/nguyenlog205/digit-classifier-app"> FPT Stock Quantification</a></h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Role-Data_Analyst-green?style=flat-square" />
         <img src="https://img.shields.io/badge/Tech-XGBoost_|_ARIMA--GARCH-eb8a00?style=flat-square" />
@@ -166,7 +166,7 @@ Database Management System: MongoDB, VectorDB
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/nguyenlog205/deep-learning-classification">🎬 Hybrid Action Recognition</a></h3>
+      <h3 align="center"><a href="https://github.com/nguyenlog205/deep-learning-classification">Hybrid Action Recognition</a></h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Role-Solo_Project-blueviolet?style=flat-square" />
         <img src="https://img.shields.io/badge/Tech-YOLOv8_|_EfficientNet_|_Transformer-black?style=flat-square" />
